@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yadong Ding
-    tagline: Software Developer   OpenSoure
+    tagline: Software Developer & OpenSoure
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     email: ding_yadong@foxmail.com
@@ -31,29 +31,27 @@ sidebar:
         - item: Cooking
           link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+#career-profile:
+#    title: Career Profile
+#    summary: |
+#      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. You can [download this free resume/CV template here]().
+#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#      Donec quam felis, ultricies nec, pellentesque eu.
+#      Second paragraph if required.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bachelor in Software Engineer
+        university: Dalian University of Technology
+        time: 2019 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Master in Software Engineer
+        university: Dalian University of Technology
+        time: 2023 - 
+        details: ｜
 
 experiences:
     title: Experiences
@@ -89,7 +87,7 @@ oss:
       Open source software contributions in this section.
     contributions:
       - title: Nydus
-        link: "github.com/dragonflyoss/image-service"
+        link: "https://github.com/dragonflyoss/image-service"
         tagline: "Nydus implements a content-addressable file system on the RAFS format, which enhances the current OCI image specification by improving container launch speed, image space and network bandwidth efficiency, and data integrity."
 
 # publications:
