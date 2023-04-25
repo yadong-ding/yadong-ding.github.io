@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Yadong Ding
-    tagline: Software Developer && Cloud Native && OpenSoure
+    tagline: Software Developer & OpenSoure
     avatar: profile.png
 
     email: ding_yadong@foxmail.com
     timezone: Asia/Shanghai Timezone
     website: desiki-high.github.io
-    github: Desiki-high
+    github: "Desiki-high"
 
     languages:
       title: Languages
@@ -87,7 +87,7 @@ oss:
       Here are open source software contributions.
     contributions:
       - title: Nydus
-        link: "https://github.com/dragonflyoss/image-service"
+        link: https://github.com/dragonflyoss/image-service
         tagline: "Nydus implements a content-addressable file system on the RAFS format, which enhances the current OCI image specification by improving container launch speed, image space and network bandwidth efficiency, and data integrity."
 
 # publications:
