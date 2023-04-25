@@ -14,7 +14,7 @@ sidebar:
     email: ding_yadong@foxmail.com
     timezone: Asia/Shanghai Timezone
     website: desiki-high.github.io
-    github: "Desiki-high"
+    github: Desiki-high
 
     languages:
       title: Languages
@@ -79,7 +79,7 @@ projects:
       Here are the projects I've worked on.
     assignments:
       - title: Intelligent Mine AI Analysis Platform
-        tagline: "An intelligent analysis platform for monitoring coal mine production. The technology stack includes: Vue3, Ts, Spring Cloud, Nacos, Gin."
+        tagline: "An intelligent analysis platform for monitoring coal mine production. The technology stack includes: Vue3, Ts, Spring Cloud, Gin."
 
 oss:
     title: OSS Contributions
