@@ -46,13 +46,15 @@ education:
     info:
       - degree: Bachelor in Software Engineer
         university: Dalian University of Technology
-        time: 2019 - 2023
+        time: 2019.9 - 2023.6
         details: |
-
+          It is my great honor to choose software engineering as my major. I love coding.
+          I learn about C/C++, compilation, data structure, algorithm, advanced mathematics, etc.
       - degree: Master in Software Engineer
         university: Dalian University of Technology
-        time: 2023 -
+        time: 2023.9 -
         details: |
+          Happy Ending.
 
 # experiences:
 #     title: Experiences
@@ -87,7 +89,6 @@ oss:
       Here are open source software contributions.
     contributions:
       - title: Nydus
-        link: http://github.com/dragonflyoss/image-service
         tagline: "Nydus implements a content-addressable file system on the RAFS format, which enhances the current OCI image specification by improving container launch speed, image space and network bandwidth efficiency, and data integrity."
 
 # publications:
