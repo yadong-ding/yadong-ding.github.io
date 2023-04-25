@@ -108,14 +108,19 @@ skills:
 
     toolset:
       - name: Python 
-        level: 75%
-
-      - name: Go
         level: 50%
 
-      - name: Rust
-        level: 25%
+      - name: Go
+        level: 30%
 
+      - name: Rust
+        level: 30%
+
+      - name: C++
+        level: 30%
+
+      - name: Java
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
