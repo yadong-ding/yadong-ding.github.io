@@ -48,7 +48,7 @@ education:
         university: Dalian University of Technology
         time: 2023.9 -
         details: |
-          Happy ending. I'm interested in cloud native computing and serverless computing.
+          Happy ending. I am interested in cloud native computing and serverless computing.
       - degree: BSc in Software Engineer
         university: Dalian University of Technology
         time: 2019.9 - 2023.6
@@ -100,25 +100,6 @@ publications:
     papers:
       - title: Nydus Acceld 去 Containerd 服务化
         link: "https://mp.weixin.qq.com/s/bD8qfQbNUDvY-W1ajriTbg"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python 
-        level: 50%
-
-      - name: Go
-        level: 30%
-
-      - name: Rust
-        level: 30%
-
-      - name: C++
-        level: 30%
-
-      - name: Java
-        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
