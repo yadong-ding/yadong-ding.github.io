@@ -23,7 +23,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: Poor
 
     interests:
       title: Interests
@@ -48,7 +48,7 @@ education:
         university: Dalian University of Technology
         time: 2023.9 -
         details: |
-          Happy ending.
+          Happy ending. I'm interested in cloud native computing and serverless computing.
       - degree: BSc in Software Engineer
         university: Dalian University of Technology
         time: 2019.9 - 2023.6
@@ -90,6 +90,8 @@ oss:
     contributions:
       - title: Nydus
         tagline: "Nydus implements a content-addressable file system on the RAFS format, which enhances the current OCI image specification by improving container launch speed, image space and network bandwidth efficiency, and data integrity."
+      - title: Acceleration-Service
+        tagline: "Acceleration Service provides a general service to Harbor with the ability to automatically convert user images to accelerated images. When a user does something such as artifact push, Harbor will request the service to complete the corresponding image conversion through its integrated Nydus, eStargz, etc. drivers."
 
 publications:
     title: Publications
@@ -98,7 +100,6 @@ publications:
     papers:
       - title: Nydus Acceld 去 Containerd 服务化
         link: "https://mp.weixin.qq.com/s/bD8qfQbNUDvY-W1ajriTbg"
-        authors: 丁亚东
 
 skills:
     title: Skills &amp; Proficiency
