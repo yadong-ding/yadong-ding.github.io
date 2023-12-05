@@ -89,8 +89,10 @@ oss:
       Here are open source software contributions.
     contributions:
       - title: Nydus
+        link: "https://github.com/dragonflyoss/nydus"
         tagline: "Nydus implements a content-addressable file system on the RAFS format, which enhances the current OCI image specification by improving container launch speed, image space and network bandwidth efficiency, and data integrity."
       - title: Acceleration-Service
+        link: "https://github.com/goharbor/acceleration-service"
         tagline: "Acceleration Service provides a general service to Harbor with the ability to automatically convert user images to accelerated images. When a user does something such as artifact push, Harbor will request the service to complete the corresponding image conversion through its integrated Nydus, eStargz, etc. drivers."
 
 publications:
